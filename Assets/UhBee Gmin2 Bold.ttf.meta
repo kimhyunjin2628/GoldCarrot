@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a3f0126f2c99f9345ace33810ee676b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UhBee Gmin2
+  fontNames:
+  - UhBee Gmin2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6e189a9d77db53349aac0f3106113982, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
